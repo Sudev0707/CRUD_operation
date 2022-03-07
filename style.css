@@ -1,0 +1,22 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    box-shadow: 0 4px 10px 0 rgba(59, 61, 61, 0.198), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 30px;
+}
+
+td, th {
+    border: 1px solid #cccaca;
+    text-align: left;
+    padding: 10px;
+
+}
+th{
+    background-color: rgb(222, 248, 248);
+}
+a{
+    padding: 2px;
+    border: 1px solid #848282;
+
+}
